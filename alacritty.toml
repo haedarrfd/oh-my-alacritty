@@ -3,7 +3,7 @@
 [general]
 live_config_reload = true
 import = [
-    "~/.config/alacritty/themes/themes/alacritty_0_12.toml" #https://github.com/alacritty/alacritty-theme
+    "~/.config/alacritty/themes/themes/alacritty_0_12.toml" # https://github.com/alacritty/alacritty-theme
 ]
 
 [env]
@@ -14,7 +14,7 @@ padding.x = 5
 padding.y = 5
 decorations = "Full"
 startup_mode = "Maximized"
-opacity = 0.98
+opacity = 0.97
 
 [font]
 normal.family = "DejaVuSansM Nerd Font Mono"
